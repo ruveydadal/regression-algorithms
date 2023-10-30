@@ -1,4 +1,4 @@
-# Regression-Algorithms
+# regression-algorithms
 Machine Learning-6
 
 Bu proje, veri madenciliği ve makine öğrenimi yaklaşımlarını kullanarak bir maaş tahmini yapmak için farklı regresyon modellerini inceleyen bir Python kodu içerir. Aşağıda, kodun nasıl çalıştığını ve hangi modellerin kullanıldığını anlatan detayları bulabilirsiniz.
